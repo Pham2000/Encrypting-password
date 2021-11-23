@@ -9,7 +9,7 @@ The program will then use rawdata.txt to encrypt the password using vigenere cip
 ## Process:
 Program will be working with hashtable and nodes. 
 
-##Result:
+## Result:
 Program will pick 5 userID and add x to password to see if the it illegal.
 
 
